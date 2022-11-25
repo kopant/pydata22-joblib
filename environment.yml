@@ -1,0 +1,10 @@
+name: pydata22-joblib
+dependencies:
+  - python=3.9
+  - joblib
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pip
+  - pip:
+    - jupyterlab

@@ -1,4 +1,4 @@
-# joblib-for-beginners
+# pydata22-joblib 
 ## Parallelization of code in Python for beginners  - PyData Global 2022 Tech Talk
 This repo houses code that illustrates the use of the python joblib package to speed up execution of a typical data science machine learning based workflow. Joblib is used in data pre-processing and hyper-parameter tuning.  
   
